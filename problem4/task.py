@@ -1,10 +1,10 @@
 """
 Write a program to do: A dataset collected in a cosmetics shop showing
 details of customers and whether or not they responded to a special offer
-to buy a new lip-stick is shown in table below. (Implement step by step
-using commands - Dont use library) Use this dataset to build a decision
-tree, with Buys as the target variable, to help in buying lipsticks in the
-future. Find the root node of the decision tree.
+to buy a new lip-stick is shown in table below. (Use library commands)
+According to the decision tree you have made from the previous training
+data set, what is the decision for the test data: [Age < 21, Income = Low,
+Gender = Female, Marital Status = Married]?
 """
 
 import pandas as pd
