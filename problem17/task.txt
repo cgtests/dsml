@@ -1,0 +1,9 @@
+Compute Accuracy, Error rate, Precision, Recall for following confusion
+matrix ( Use formula for each)
+
+
+Accuracy (all correct / all) = TP + TN / TP + TN + FP + FN
+Misclassification (all incorrect / all) = FP + FN / TP + TN + FP + FN
+Precision (true positives / predicted positives) = TP / TP + FP
+Sensitivity aka Recall (true positives / all actual positives) = TP / TP + FN
+Specificity (true negatives / all actual negatives) =TN / TN + FP
